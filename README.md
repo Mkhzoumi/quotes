@@ -3,6 +3,8 @@
 #### description 
 this java application has a method called readJson which can read a jason file of quotes and return an array of objects of Quotes type, then the application will print a random quote with the name of its author everytime you run it.
 
+another method was added to the application which use an API to get quotes online and print it to the user.
+
 
 #### installing Gson dependancies
 
